@@ -9,7 +9,7 @@ with ui.row().classes("bg-red-300 w-full p-10 justify-between"):
 
 # port = int(os.environ.get("PORT", 3000))
 # app = ui.run(reload=False,title="Edy Channel", port=port)
-app = ui.run(reload=False,title="Edy Channel")
+app = ui.run(reload=False,title="mor")
 
 if __name__ == "__main__":
     port = int(getenv("PORT",3000))
